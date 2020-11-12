@@ -13,3 +13,7 @@ y.times do |x|
 end
 
 puts ans
+puts ans
+puts ans
+puts ans
+puts ans
